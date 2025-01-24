@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vini Bartoli 👋🏼
 #### Programador, graduado em ADS, apaixonado por aprender e desbravar novas coisas !
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vini-bartoli-21911b244)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vini-bartoli-21911b244/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vinibartoli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](vinibartoli04@gmail.com)
